@@ -1,0 +1,541 @@
+1643248823081	geckodriver	INFO	Listening on 127.0.0.1:51703
+1643248825663	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilezNPDi8"
+1643248832492	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofilezNPDi8\\search.json.mozlz4", (void 0)))
+1643248837245	Marionette	INFO	Listening on port 51717
+1643248837749	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://lf3-cdn-tos.bytescm.com/obj/rc-web-sdk/acrawler.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1643248839181	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://lf3-cdn-tos.bytescm.com/obj/rc-web-sdk/webmssdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1643248842422	Marionette	INFO	Stopped listening on port 51717
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390077,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390142,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390142,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390142,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390142,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390142,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390142,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390142,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643249043471	geckodriver	INFO	Listening on 127.0.0.1:52155
+1643249046482	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileypeWq7"
+1643249047024	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofileypeWq7\\search.json.mozlz4", (void 0)))
+1643249049381	Marionette	INFO	Listening on port 52171
+1643249049712	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://lf3-cdn-tos.bytescm.com/obj/rc-web-sdk/acrawler.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1643249052326	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://lf3-cdn-tos.bytescm.com/obj/rc-web-sdk/webmssdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://lf1-cdn-tos.bytegoofy.com/goofy/ies/douyin_web/async/5932.afaca382.js line 24 > Function, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1643249056178	Marionette	INFO	Stopped listening on port 52171
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1643249070843	geckodriver	INFO	Listening on 127.0.0.1:52315
+1643249073842	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilenjvOuQ"
+1643249074345	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofilenjvOuQ\\search.json.mozlz4", (void 0)))
+1643249076965	Marionette	INFO	Listening on port 52326
+1643249077077	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://lf3-cdn-tos.bytescm.com/obj/rc-web-sdk/acrawler.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1643249079070	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://lf3-cdn-tos.bytescm.com/obj/rc-web-sdk/webmssdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://lf1-cdn-tos.bytegoofy.com/goofy/ies/douyin_web/async/5932.afaca382.js line 24 > Function, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1643249083614	Marionette	INFO	Stopped listening on port 52326
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1643249099832	geckodriver	INFO	Listening on 127.0.0.1:52475
+1643249102831	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofiledi3mzr"
+1643249103315	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofiledi3mzr\\search.json.mozlz4", (void 0)))
+1643249105589	Marionette	INFO	Listening on port 52486
+1643249106083	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://lf3-cdn-tos.bytescm.com/obj/rc-web-sdk/acrawler.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1643249109624	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://lf3-cdn-tos.bytescm.com/obj/rc-web-sdk/webmssdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://lf1-cdn-tos.bytegoofy.com/goofy/ies/douyin_web/async/5932.afaca382.js line 24 > Function, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://lf3-cdn-tos.bytescm.com/obj/rc-web-sdk/webmssdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://lf1-cdn-tos.bytegoofy.com/goofy/ies/douyin_web/async/8547.14ead27c.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://lf1-cdn-tos.bytegoofy.com/goofy/ies/douyin_web/async/8547.14ead27c.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1643249118525	Marionette	INFO	Stopped listening on port 52486
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 5572, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1643249541586	geckodriver	INFO	Listening on 127.0.0.1:53069
+1643249544585	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileF3CAtB"
+1643249545789	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofileF3CAtB\\search.json.mozlz4", (void 0)))
+1643249548115	Marionette	INFO	Listening on port 53080
+1643249548411	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://lf3-cdn-tos.bytescm.com/obj/rc-web-sdk/acrawler.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1643249549567	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://lf3-cdn-tos.bytescm.com/obj/rc-web-sdk/webmssdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://lf1-cdn-tos.bytegoofy.com/goofy/ies/douyin_web/async/5932.afaca382.js line 24 > Function, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://lf3-cdn-tos.bytescm.com/obj/rc-web-sdk/webmssdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://lf1-cdn-tos.bytegoofy.com/goofy/ies/douyin_web/async/8547.14ead27c.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://lf1-cdn-tos.bytegoofy.com/goofy/ies/douyin_web/async/8547.14ead27c.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://devtools/client/framework/toolbox.js, line 1943: TypeError: currentPanel is undefined
+1643249559299	Marionette	INFO	Stopped listening on port 53080
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1643249603830	geckodriver	INFO	Listening on 127.0.0.1:53260
+1643249606832	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileRsqWRa"
+1643249607317	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofileRsqWRa\\search.json.mozlz4", (void 0)))
+1643249609558	Marionette	INFO	Listening on port 53270
+1643249610060	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://lf3-cdn-tos.bytescm.com/obj/rc-web-sdk/acrawler.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1643249612868	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://lf3-cdn-tos.bytescm.com/obj/rc-web-sdk/webmssdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://lf1-cdn-tos.bytegoofy.com/goofy/ies/douyin_web/async/5932.afaca382.js line 24 > Function, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1643249617260	Marionette	INFO	Stopped listening on port 53270
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1643249635395	geckodriver	INFO	Listening on 127.0.0.1:53393
+1643249638396	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile6UBnd9"
+1643249638880	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofile6UBnd9\\search.json.mozlz4", (void 0)))
+1643249641060	Marionette	INFO	Listening on port 53402
+1643249641127	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://lf3-cdn-tos.bytescm.com/obj/rc-web-sdk/acrawler.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1643249643764	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://lf3-cdn-tos.bytescm.com/obj/rc-web-sdk/webmssdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://lf1-cdn-tos.bytegoofy.com/goofy/ies/douyin_web/async/5932.afaca382.js line 24 > Function, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://lf3-cdn-tos.bytescm.com/obj/rc-web-sdk/webmssdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://lf1-cdn-tos.bytegoofy.com/goofy/ies/douyin_web/async/8547.14ead27c.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://lf1-cdn-tos.bytegoofy.com/goofy/ies/douyin_web/async/8547.14ead27c.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://lf1-cdn-tos.bytegoofy.com/goofy/ies/douyin_web/async/8547.14ead27c.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://lf1-cdn-tos.bytegoofy.com/goofy/ies/douyin_web/async/8547.14ead27c.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1643249656573	Marionette	INFO	Stopped listening on port 53402
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.child4/customhighlighter97, type hide failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:289:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nhide@resource://devtools/client/fronts/highlighters.js:32:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:55:25\nhideHighlighterType@resource://devtools/client/inspector/shared/highlighters-overlay.js:640:23\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:55:25\n_hideBoxModel@resource://devtools/client/inspector/markup/markup.js:731:40\n_onMouseOut@resource://devtools/client/inspector/markup/markup.js:699:16\nobserve@resource://gre/modules/AsyncShutdown.jsm:575:16\nGeckoDriver.prototype.quit@chrome://remote/content/marionette/driver.js:2662:20\ndespatch@chrome://remote/content/marionette/server.js:306:40\nexecute@chrome://remote/content/marionette/server.js:279:16\nonPacket/<@chrome://remote/content/marionette/server.js:252:20\nonPacket@chrome://remote/content/marionette/server.js:253:9\n_onJSONObjectReady/<@chrome://remote/content/marionette/transport.js:500:20\n", "resource://devtools/shared/protocol/Front.js", 103))
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 452))
+1643249709898	geckodriver	INFO	Listening on 127.0.0.1:53678
+1643249712892	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileoMxoAX"
+1643249713381	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofileoMxoAX\\search.json.mozlz4", (void 0)))
+1643249715594	Marionette	INFO	Listening on port 53688
+1643249715625	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://lf3-cdn-tos.bytescm.com/obj/rc-web-sdk/acrawler.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1643249718374	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://lf3-cdn-tos.bytescm.com/obj/rc-web-sdk/webmssdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://lf3-cdn-tos.bytescm.com/obj/rc-web-sdk/webmssdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://lf1-cdn-tos.bytegoofy.com/goofy/ies/douyin_web/async/5932.afaca382.js line 24 > Function, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://lf1-cdn-tos.bytegoofy.com/goofy/ies/douyin_web/async/8547.14ead27c.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://lf1-cdn-tos.bytegoofy.com/goofy/ies/douyin_web/async/8547.14ead27c.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1643249731508	Marionette	INFO	Stopped listening on port 53688
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.child4/customhighlighter104, type hide failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:289:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nhide@resource://devtools/client/fronts/highlighters.js:32:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:55:25\nhideHighlighterType@resource://devtools/client/inspector/shared/highlighters-overlay.js:640:23\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:55:25\n_hideBoxModel@resource://devtools/client/inspector/markup/markup.js:731:40\n_onMouseOut@resource://devtools/client/inspector/markup/markup.js:699:16\nobserve@resource://gre/modules/AsyncShutdown.jsm:575:16\nGeckoDriver.prototype.quit@chrome://remote/content/marionette/driver.js:2662:20\ndespatch@chrome://remote/content/marionette/server.js:306:40\nexecute@chrome://remote/content/marionette/server.js:279:16\nonPacket/<@chrome://remote/content/marionette/server.js:252:20\nonPacket@chrome://remote/content/marionette/server.js:253:9\n_onJSONObjectReady/<@chrome://remote/content/marionette/transport.js:500:20\n", "resource://devtools/shared/protocol/Front.js", 103))
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://browser/content/browser-customization.js, line 166: NS_ERROR_NOT_INITIALIZED: 
+1643249769627	geckodriver	INFO	Listening on 127.0.0.1:53851
+1643249772627	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileWNHZD0"
+1643249781289	geckodriver	INFO	Listening on 127.0.0.1:53877
+1643249784310	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileH4aWhl"
+1643249784799	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofileH4aWhl\\search.json.mozlz4", (void 0)))
+1643249786970	Marionette	INFO	Listening on port 53886
+1643249787079	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://lf3-cdn-tos.bytescm.com/obj/rc-web-sdk/acrawler.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1643249789007	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://lf3-cdn-tos.bytescm.com/obj/rc-web-sdk/webmssdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://lf1-cdn-tos.bytegoofy.com/goofy/ies/douyin_web/async/5932.afaca382.js line 24 > Function, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://lf3-cdn-tos.bytescm.com/obj/rc-web-sdk/webmssdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://lf1-cdn-tos.bytegoofy.com/goofy/ies/douyin_web/async/8547.14ead27c.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://lf1-cdn-tos.bytegoofy.com/goofy/ies/douyin_web/async/8547.14ead27c.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+JavaScript warning: https://lf1-cdn-tos.bytegoofy.com/goofy/ies/douyin_web/async/5256.d991d79f.js line 24 > Function, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 1800, MediaDecoderStateMachine #1] WARNING: 1f770d60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript warning: https://lf3-cdn-tos.bytescm.com/obj/rc-web-sdk/webmssdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://lf3-cdn-tos.bytescm.com/obj/rc-web-sdk/webmssdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1643250111273	geckodriver	INFO	Listening on 127.0.0.1:54307
+1643250114295	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileYl1k5i"
+1643250114862	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofileYl1k5i\\search.json.mozlz4", (void 0)))
+1643250117520	Marionette	INFO	Listening on port 54316
+1643250117632	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://lf3-cdn-tos.bytescm.com/obj/rc-web-sdk/acrawler.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1643250120674	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://lf3-cdn-tos.bytescm.com/obj/rc-web-sdk/webmssdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://lf1-cdn-tos.bytegoofy.com/goofy/ies/douyin_web/async/5932.afaca382.js line 24 > Function, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://lf3-cdn-tos.bytescm.com/obj/rc-web-sdk/webmssdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://lf1-cdn-tos.bytegoofy.com/goofy/ies/douyin_web/async/8547.14ead27c.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://lf1-cdn-tos.bytegoofy.com/goofy/ies/douyin_web/async/8547.14ead27c.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+JavaScript warning: https://lf1-cdn-tos.bytegoofy.com/goofy/ies/douyin_web/async/5256.d991d79f.js line 24 > Function, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 2304, MediaDecoderStateMachine #1] WARNING: 2172cd60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1643250354280	geckodriver	INFO	Listening on 127.0.0.1:54634
+1643250357302	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilerjzGge"
+1643250357812	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofilerjzGge\\search.json.mozlz4", (void 0)))
+1643250359980	Marionette	INFO	Listening on port 54645
+1643250360041	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://lf3-cdn-tos.bytescm.com/obj/rc-web-sdk/acrawler.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1643250361421	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://lf3-cdn-tos.bytescm.com/obj/rc-web-sdk/webmssdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://lf1-cdn-tos.bytegoofy.com/goofy/ies/douyin_web/async/5932.afaca382.js line 24 > Function, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://lf3-cdn-tos.bytescm.com/obj/rc-web-sdk/webmssdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://lf1-cdn-tos.bytegoofy.com/goofy/ies/douyin_web/async/8547.14ead27c.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://lf1-cdn-tos.bytegoofy.com/goofy/ies/douyin_web/async/8547.14ead27c.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1643250375047	Marionette	INFO	Stopped listening on port 54645
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643250500719	geckodriver	INFO	Listening on 127.0.0.1:54883
+1643250503741	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileJKVt8D"
+1643250504244	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofileJKVt8D\\search.json.mozlz4", (void 0)))
+1643250506541	Marionette	INFO	Listening on port 54892
+1643250506974	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://lf3-cdn-tos.bytescm.com/obj/rc-web-sdk/acrawler.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1643250508583	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://lf3-cdn-tos.bytescm.com/obj/rc-web-sdk/webmssdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://lf1-cdn-tos.bytegoofy.com/goofy/ies/douyin_web/async/5932.afaca382.js line 24 > Function, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://lf3-cdn-tos.bytescm.com/obj/rc-web-sdk/webmssdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://lf1-cdn-tos.bytegoofy.com/goofy/ies/douyin_web/async/8547.14ead27c.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://lf1-cdn-tos.bytegoofy.com/goofy/ies/douyin_web/async/8547.14ead27c.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+JavaScript warning: https://lf3-cdn-tos.bytescm.com/obj/rc-web-sdk/webmssdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://lf1-cdn-tos.bytegoofy.com/goofy/ies/douyin_web/async/5256.d991d79f.js line 24 > Function, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://lf1-cdn-tos.bytegoofy.com/goofy/ies/douyin_web/async/5932.afaca382.js line 24 > Function, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://lf3-cdn-tos.bytescm.com/obj/rc-web-sdk/webmssdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://lf1-cdn-tos.bytegoofy.com/goofy/ies/douyin_web/async/8547.14ead27c.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://lf1-cdn-tos.bytegoofy.com/goofy/ies/douyin_web/async/8547.14ead27c.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://lf1-cdn-tos.bytegoofy.com/goofy/ies/douyin_web/async/8547.14ead27c.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://lf1-cdn-tos.bytegoofy.com/goofy/ies/douyin_web/async/8547.14ead27c.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+JavaScript error: resource://devtools/client/fronts/node.js, line 416: TypeError: this.parentFront is null
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 1001))
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.child4/pagestyle28 (resource://devtools/server/actors/page-style.js:1001:5)", "resource://devtools/shared/protocol/Front.js", 362))
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: "Error sending event: picker-node-picked"
+console.error: (new Error("Attempted to write a response containing a destroyed actor", "resource://devtools/shared/protocol/types.js", 353))
+Error: Attempted to write a response containing a destroyed actor: write@resource://devtools/shared/protocol/types.js:353:17
+write@resource://devtools/shared/protocol/types.js:263:39
+write@resource://devtools/shared/protocol/Request.js:109:22
+write@resource://devtools/shared/protocol/Request.js:39:26
+_sendEvent@resource://devtools/shared/protocol/Actor.js:66:24
+initialize/<@resource://devtools/shared/protocol/Actor.js:46:16
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+_onPick@resource://devtools/server/actors/inspector/node-picker.js:102:18
+
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+JavaScript error: resource://devtools/client/fronts/node.js, line 416: TypeError: this.parentFront is null
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+1643251434829	geckodriver	INFO	Listening on 127.0.0.1:55854
+1643251437832	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilet45B0x"
+1643251438341	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofilet45B0x\\search.json.mozlz4", (void 0)))
+1643251440625	Marionette	INFO	Listening on port 55870
+1643251441061	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://lf3-cdn-tos.bytescm.com/obj/rc-web-sdk/acrawler.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1643251442415	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://lf3-cdn-tos.bytescm.com/obj/rc-web-sdk/webmssdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://lf1-cdn-tos.bytegoofy.com/goofy/ies/douyin_web/async/5932.afaca382.js line 24 > Function, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://lf3-cdn-tos.bytescm.com/obj/rc-web-sdk/webmssdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://lf1-cdn-tos.bytegoofy.com/goofy/ies/douyin_web/async/8547.14ead27c.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://lf1-cdn-tos.bytegoofy.com/goofy/ies/douyin_web/async/8547.14ead27c.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1643251447445	Marionette	INFO	Stopped listening on port 55870
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1643251529851	geckodriver	INFO	Listening on 127.0.0.1:56048
+1643251532890	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileK1TYTb"
+1643251533380	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofileK1TYTb\\search.json.mozlz4", (void 0)))
+1643251535615	Marionette	INFO	Listening on port 56063
+1643251536122	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://lf3-cdn-tos.bytescm.com/obj/rc-web-sdk/acrawler.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1643251538302	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://lf3-cdn-tos.bytescm.com/obj/rc-web-sdk/webmssdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://lf1-cdn-tos.bytegoofy.com/goofy/ies/douyin_web/async/5932.afaca382.js line 24 > Function, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://lf3-cdn-tos.bytescm.com/obj/rc-web-sdk/webmssdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://lf1-cdn-tos.bytegoofy.com/goofy/ies/douyin_web/async/8547.14ead27c.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://lf1-cdn-tos.bytegoofy.com/goofy/ies/douyin_web/async/8547.14ead27c.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1643251545616	Marionette	INFO	Stopped listening on port 56063
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643251616721	geckodriver	INFO	Listening on 127.0.0.1:56302
+1643251619735	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilew8rDv6"
+1643251620253	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofilew8rDv6\\search.json.mozlz4", (void 0)))
+1643251622535	Marionette	INFO	Listening on port 56311
+1643251622982	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://lf3-cdn-tos.bytescm.com/obj/rc-web-sdk/acrawler.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1643251624504	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://lf3-cdn-tos.bytescm.com/obj/rc-web-sdk/webmssdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://lf1-cdn-tos.bytegoofy.com/goofy/ies/douyin_web/async/5932.afaca382.js line 24 > Function, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://lf3-cdn-tos.bytescm.com/obj/rc-web-sdk/webmssdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://lf1-cdn-tos.bytegoofy.com/goofy/ies/douyin_web/async/8547.14ead27c.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://lf1-cdn-tos.bytegoofy.com/goofy/ies/douyin_web/async/8547.14ead27c.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1643251642133	Marionette	INFO	Stopped listening on port 56311
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643251741155	geckodriver	INFO	Listening on 127.0.0.1:56535
+1643251744157	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileplNDfc"
+1643251744722	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofileplNDfc\\search.json.mozlz4", (void 0)))
+1643251747092	Marionette	INFO	Listening on port 56546
+1643251747411	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://lf3-cdn-tos.bytescm.com/obj/rc-web-sdk/acrawler.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1643251749971	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://lf3-cdn-tos.bytescm.com/obj/rc-web-sdk/webmssdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://lf1-cdn-tos.bytegoofy.com/goofy/ies/douyin_web/async/5932.afaca382.js line 24 > Function, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://lf3-cdn-tos.bytescm.com/obj/rc-web-sdk/webmssdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://lf1-cdn-tos.bytegoofy.com/goofy/ies/douyin_web/async/8547.14ead27c.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://lf1-cdn-tos.bytegoofy.com/goofy/ies/douyin_web/async/8547.14ead27c.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://lf3-cdn-tos.bytescm.com/obj/rc-web-sdk/webmssdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://lf1-cdn-tos.bytegoofy.com/goofy/ies/douyin/search/async/932.e7a21a7f.js line 24 > Function, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://lf3-cdn-tos.bytescm.com/obj/rc-web-sdk/webmssdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1643251804342	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://lf3-cdn-tos.bytescm.com/obj/rc-web-sdk/webmssdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://lf1-cdn-tos.bytegoofy.com/goofy/ies/douyin/search/async/932.e7a21a7f.js line 24 > Function, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://lf3-cdn-tos.bytescm.com/obj/rc-web-sdk/webmssdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1643251813880	Marionette	INFO	Stopped listening on port 56546
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1643251883700	geckodriver	INFO	Listening on 127.0.0.1:56833
+1643251886701	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile8L5aaG"
+1643251887418	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofile8L5aaG\\search.json.mozlz4", (void 0)))
+1643251889630	Marionette	INFO	Listening on port 56843
+1643251889936	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://lf3-cdn-tos.bytescm.com/obj/rc-web-sdk/acrawler.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1643251891363	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://lf3-cdn-tos.bytescm.com/obj/rc-web-sdk/webmssdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://lf1-cdn-tos.bytegoofy.com/goofy/ies/douyin_web/async/5932.afaca382.js line 24 > Function, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://lf3-cdn-tos.bytescm.com/obj/rc-web-sdk/webmssdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://lf1-cdn-tos.bytegoofy.com/goofy/ies/douyin_web/async/8547.14ead27c.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://lf1-cdn-tos.bytegoofy.com/goofy/ies/douyin_web/async/8547.14ead27c.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1643252072488	geckodriver	INFO	Listening on 127.0.0.1:57228
+1643252075490	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile6m66qu"
+1643252076690	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofile6m66qu\\search.json.mozlz4", (void 0)))
+1643252079627	Marionette	INFO	Listening on port 57239
+1643252079871	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1643281727376	Marionette	INFO	Stopped listening on port 57239
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 4936, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390156,name=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+43252194317	Marionette	INFO	Listening on port 57442
+1643252194361	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1643281727257	Marionette	INFO	Stopped listening on port 57442
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 9708, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390156,name=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+ofilezcPMoI\\search.json.mozlz4", (void 0)))
+1643252312801	Marionette	INFO	Listening on port 57601
+1643252313434	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://lf3-cdn-tos.bytescm.com/obj/rc-web-sdk/acrawler.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1643252315086	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://lf3-cdn-tos.bytescm.com/obj/rc-web-sdk/webmssdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://lf1-cdn-tos.bytegoofy.com/goofy/ies/douyin_web/async/5932.afaca382.js line 24 > Function, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://lf3-cdn-tos.bytescm.com/obj/rc-web-sdk/webmssdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://lf1-cdn-tos.bytegoofy.com/goofy/ies/douyin_web/async/8547.14ead27c.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://lf1-cdn-tos.bytegoofy.com/goofy/ies/douyin_web/async/8547.14ead27c.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1643252372060	Marionette	INFO	Stopped listening on port 57601
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1643265070737	geckodriver	INFO	Listening on 127.0.0.1:65299
+1643265073734	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-blink-features=AutomationControlled" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileZejFVU"
+1643265074230	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofileZejFVU\\search.json.mozlz4", (void 0)))
+1643265076433	Marionette	INFO	Listening on port 65316
+1643265076485	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://lf3-cdn-tos.bytescm.com/obj/rc-web-sdk/acrawler.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1643265078990	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://lf3-cdn-tos.bytescm.com/obj/rc-web-sdk/webmssdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://lf1-cdn-tos.bytegoofy.com/goofy/ies/douyin_web/async/5932.afaca382.js line 24 > Function, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://lf3-cdn-tos.bytescm.com/obj/rc-web-sdk/webmssdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1643265084382	Marionette	INFO	Stopped listening on port 65316
+JavaScript warning: https://lf1-cdn-tos.bytegoofy.com/goofy/ies/douyin_web/async/8547.14ead27c.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://lf1-cdn-tos.bytegoofy.com/goofy/ies/douyin_web/async/8547.14ead27c.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 10952, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390077,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
